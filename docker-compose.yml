@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  eaglerock:
+    image: ${DOCKER_REGISTRY-}eaglerock
+    build:
+      context: .
+      dockerfile: Eagle/Dockerfile

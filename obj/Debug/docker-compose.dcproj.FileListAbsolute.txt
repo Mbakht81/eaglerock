@@ -1,0 +1,8 @@
+/Users/maryambakht/Documents/maryam/EagleRock /bin/Debug/EagleRock.deps.json
+/Users/maryambakht/Documents/maryam/EagleRock /bin/Debug/EagleRock.runtimeconfig.json
+/Users/maryambakht/Documents/maryam/EagleRock /bin/Debug/Services/appsettings.Development.json
+/Users/maryambakht/Documents/maryam/EagleRock /bin/Debug/Services/appsettings.json
+/Users/maryambakht/Documents/maryam/EagleRock /bin/Debug/EagleRock
+/Users/maryambakht/Documents/maryam/EagleRock /obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/maryambakht/Documents/maryam/EagleRock /obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/maryambakht/Documents/maryam/EagleRock /obj/Debug/docker-compose.dcproj.CopyComplete

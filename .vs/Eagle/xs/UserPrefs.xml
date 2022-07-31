@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{5D3201E3-139D-4FB9-B1B4-0F8445772648}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eagle/Program.cs">
+    <Files>
+      <File FileName="Eagle/Models/TrafficData.cs" Line="51" Column="52" />
+      <File FileName="Eagle/Controllers/EagleDataController.cs" Line="38" Column="1" />
+      <File FileName="Eagle/Controllers/TrafficDataController.cs" Line="19" Column="1" />
+      <File FileName="Eagle/Program.cs" Line="30" Column="1" />
+      <File FileName="Eagle/appsettings.json" Line="14" Column="4" />
+      <File FileName="Eagle/Properties/launchSettings.json" Line="17" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eagle" expanded="True">
+            <Node name="Eagle" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="EagleTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_context</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Eagle" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EagleRock PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/maryambakht/Projects/it works archive/Eagle2/Eagle/Services/TrafficDataService.cs" relfile="Eagle/Services/TrafficDataService.cs" line="33" column="1" />
+    <Breakpoint file="/Users/maryambakht/Projects/it works archive/Eagle2/Eagle/Controllers/TrafficDataController.cs" relfile="Eagle/Controllers/TrafficDataController.cs" line="106" column="1" />
+    <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
